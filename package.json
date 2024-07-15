@@ -1,0 +1,11 @@
+{
+  "name": "food_order",
+  "version": "1.0.0",
+  "description": "EatFood is a food ordering application that allows users to browse menus, place orders, and manage their food preferences. The application consists of a backend service and a frontend interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
